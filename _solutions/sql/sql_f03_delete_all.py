@@ -1,0 +1,6 @@
+
+result = """
+
+DELETE FROM `contacts`
+
+"""

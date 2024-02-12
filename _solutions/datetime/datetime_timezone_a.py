@@ -1,0 +1,15 @@
+
+utc = ZoneInfo('UTC')
+london = ZoneInfo('Europe/London')
+buenos_aires = ZoneInfo('America/Argentina/Buenos_Aires')
+warsaw = ZoneInfo('Europe/Warsaw')
+tokyo = ZoneInfo('Asia/Tokyo')
+sydney = ZoneInfo('Australia/Sydney')
+auckland = ZoneInfo('Pacific/Auckland')
+new_york = ZoneInfo('America/New_York')
+
+cape_canaveral = ZoneInfo('America/New_York')
+houston = ZoneInfo('America/Chicago')
+bajkonur = ZoneInfo('Asia/Almaty')
+north_pole = ZoneInfo('Arctic/Longyearbyen')
+south_pole = ZoneInfo('Europe/Warsaw')

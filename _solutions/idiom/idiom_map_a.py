@@ -1,0 +1,2 @@
+
+result = map(float, DATA)

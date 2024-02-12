@@ -1,0 +1,2 @@
+
+header, *rows = DATA

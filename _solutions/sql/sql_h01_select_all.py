@@ -1,0 +1,7 @@
+
+result = """
+
+SELECT *
+FROM `users`
+
+"""

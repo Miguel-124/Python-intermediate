@@ -1,0 +1,2 @@
+
+result = datetime.fromisoformat(DATA)

@@ -1,0 +1,2 @@
+
+ip, *hosts = DATA
