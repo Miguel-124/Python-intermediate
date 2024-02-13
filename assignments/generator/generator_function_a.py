@@ -60,6 +60,7 @@ def function(data: str):
         login, x, uid, *values = line.split(':')
         if int(uid) < 1000:
             result.append(login)
+
     return result
 
 
